@@ -15,6 +15,7 @@ Execute the program
 
 ## CODE
 
+~~~py
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -108,6 +109,7 @@ Execute the program
 </table>
 </body>
 </html>
+~~~
 
 ## OUTPUT
 ![232226843-e251afe6-404d-48b2-93dc-601fe00c7ccd](https://github.com/SivaMohan-cloud/timetable/assets/121418870/7d6defb0-7ad9-4c15-aaa1-2083aad25705)
